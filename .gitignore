@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Track Jupyter notebooks
+!*.ipynb
+!.gitignore
